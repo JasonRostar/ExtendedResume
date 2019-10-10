@@ -41,9 +41,12 @@ body {
 .v-title {
   padding: 30px;
   text-align: center;
-  border: 1px solid #eeeeee;
+  border-radius: 7px;
+  /*border: 5px solid black;*/
   background-color: #eeeeee;
   font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .v-title-image {
@@ -52,6 +55,3 @@ body {
   float: left;
   padding: 5px;
 }
-
-/* .v-title-image {
-} */
