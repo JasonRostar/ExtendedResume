@@ -8,6 +8,12 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.jumbotron h1 {
+  border-bottom: 2px solid black;
+  display: inline-block;
+  line-height: 0.85;
+}
+
 .google-slides-container {
   position: relative;
   width: 100%;
