@@ -1,5 +1,5 @@
 body {
-  padding-top: 70px;
+  padding-top: 30px;
 }
 .jumbotron {
   color: #2c3e50;
@@ -15,6 +15,28 @@ body {
 }
 
 .google-slides-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  padding: 30px;
+  text-align: center;
+  border: 1px solid #eeeeee;
+  background-color: #eeeeee;
+}
+
+.vmet {
+  position: relative;
+  width: 100%;
+  padding-top: 60%;
+  overflow: hidden;
+}
+
+.vmet iframe {
   position: absolute;
   top: 0;
   left: 0;
