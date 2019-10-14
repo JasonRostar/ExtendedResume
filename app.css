@@ -73,5 +73,6 @@ body {
 }
 
 #menu {
-  background-color: #eeeeee;
+  background-color: white;
+  padding-bottom: 0px;
 }
