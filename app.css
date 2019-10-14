@@ -66,3 +66,12 @@ body {
   height: auto;
   background-color: black;
 }
+
+.navbar-text {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #eeeeee;
+}
+
+#menu {
+  background-color: #eeeeee;
+}
