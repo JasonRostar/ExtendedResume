@@ -1,5 +1,5 @@
 body {
-  padding-top: 30px;
+  padding-top: 20px;
   width: 100%;
   position: relative;
 }
@@ -36,6 +36,7 @@ body {
   width: 100%;
   padding-top: 60%;
   overflow: hidden;
+  padding-bottom: 500px;
 }
 
 .vmet iframe {
@@ -60,7 +61,7 @@ body {
   border: 1px solid black;
   border-radius: 50%;
   float: left;
-  padding: 0.2px;
+  padding: 0.5px;
   margin-top: -26px;
   max-width: 100%;
   height: auto;
