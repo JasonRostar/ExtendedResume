@@ -18,6 +18,14 @@ main {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+.landing h1 {
+  font-size: 4rem;
+}
+
+.landing h2 {
+  font-size: 2rem;
+}
+
 .google-slides-container {
   position: relative;
   width: 100%;
@@ -31,6 +39,12 @@ main {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.image {
+  max-width: 900px;
+  margin: auto;
+  padding-top: 1rem;
 }
 
 .vmet {
@@ -69,7 +83,7 @@ main {
   display: flex;
   justify-content: space-evenly;
   padding: 3rem;
-  font-size: 2rem;
+  font-size: 3rem;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
