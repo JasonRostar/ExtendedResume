@@ -81,7 +81,8 @@ main {
 
 .navbar-text {
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
   padding: 3rem;
   font-size: 3rem;
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -90,6 +91,7 @@ main {
 .navbar-text a {
   text-decoration: none;
   color: black;
+  padding: 1rem;
 }
 
 
